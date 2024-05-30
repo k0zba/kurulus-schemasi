@@ -1,0 +1,27 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsMediaOrganization",
+  "image": "https://www.kozba.org/wp-content/uploads/2022/07/KOZBA-LOGO-2022.png",
+  "name": "KOZBA",
+  "alternateName": "Doğukan KOZBA",
+  "url": "https://www.kozba.org/",
+  "knowsLanguage": "tr-TR",
+  "telephone": "+90-532-717-86-10",
+  "email": "dogukan@kozba.net",
+  "sponsor": "CSA Digital",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ömercikler, 8014. Sk. No:32 Daire:8",
+    "addressLocality": "Sakarya",
+    "postalCode": "54500",
+    "addressCountry": "TR",
+    "addressRegion": "TR",
+  "sameAs": [
+    "https://www.youtube.com/c/Kozba/",
+    "https://twitter.com/KozbaORG",
+    "https://kozba.tumblr.com/",
+    "https://tr.pinterest.com/KozbaORG/"]
+  }
+}
+</script>
